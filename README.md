@@ -4,7 +4,7 @@
 [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR&gl=US)
 
 ```
-https://github.com/123facip/unibot
+git clone https://github.com/123facip/unibot
 cd unibot
 bash install.sh
 npm install
