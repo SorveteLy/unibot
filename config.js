@@ -1,13 +1,13 @@
-const ownerNumber = ["557187645787@s.whatsapp.net"] 
+const ownerNumber = ["5521997767866@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '557187645787' 
+const OriginalOwner = '5521997767866' 
 // mude para seu numero
 
 var gimagenotregister = true
 // quando não há comando registrado o bot procura no google image
 
-var sgooglenotregister = true
+var sgooglenotregister = false
 // quando não há comando registrado o bot procura uma pesquisa no google
 
 const msgwelcomeimg = (numero, groupname) => {
@@ -92,7 +92,7 @@ const textmsgeve = `Kon'nichiwa Onii-chan, aceite esse café ☕`
 // link e mensagem de boa tarde
 
 const linkimgnig = 'https://i.ibb.co/VJCd34F/EKvo372-X0-AEd-Hz.jpg'
-const textmsgnig = 'Konbanwa Onii-chan, espero que tenha tido um bom dia ☺️'
+const textmsgnig = 'Konbanwa Onii-chan, espero que tenha uma boa noite ☺️'
 // link e mensagem de boa noite 
 
 // MENSAGENS DE ERRO
