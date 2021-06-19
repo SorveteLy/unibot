@@ -4,8 +4,8 @@
 [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR&gl=US)
 
 ```
-git clone https://github.com/ianmsfvenom/Brizas-bot
-cd Brizas-bot
+https://github.com/123facip/unibot
+cd unibot
 bash install.sh
 npm install
 
